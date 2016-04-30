@@ -1,0 +1,14 @@
+layout_spectrum: 1
+typography_spectrum: 0.09318996
+color:
+  saturation: 0.5680991
+  lightness: 0.3306589
+  brandStrength: 0
+  brandColors:
+    - '#FFFFFF'
+    - '#2D322E'
+    - '#4A504E'
+    - '#968E8B'
+    - '#73B4B3'
+  rhythmicContrast: 0.08091502
+name: "Funny when you've 'ad a few"
